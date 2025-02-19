@@ -1,6 +1,12 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * @author Gleideson Freitas
+ * Projeto Desafio Controle Fluxo
+ * @version 1.0
+ */
+
 public class Contador {
 	public static void main(String[] args) {
 		Scanner terminal = new Scanner(System.in);

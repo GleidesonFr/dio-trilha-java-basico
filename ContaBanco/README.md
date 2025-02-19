@@ -15,4 +15,4 @@ import java.util.Locale
 import java.util.Scanner
 ```
 
-*Mais informações sobre as bibliotecas acima confira na [documentação Java](https://docs.oracle.com/en/java/)*
+*Mais informações sobre as bibliotecas acima confira na [documentação Java](https://docs.oracle.com/en/java/)*.
